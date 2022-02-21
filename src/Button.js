@@ -32,10 +32,6 @@ const SIZES = {
   MEDIUM: "medium"
 }
 
-// const StyledButton = styled.button`
-//   border: 10px solid red;
-//   font-size: 20px;
-// `
 
 const StyledButton = styled.button`
   border: 10px solid red;
@@ -55,7 +51,7 @@ const StyledButton = styled.button`
   opacity: 1;
   margin: 0;
   background: transparent;
-  font-size: 20px;
+
   font-weight: ${typography.weight.extrabold};
   line-height: 1;
 
